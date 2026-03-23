@@ -18,8 +18,8 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='封科全',
-    maintainer_email='fengkequan@example.com',
-    description='YOLO-based perception for network facility inspection',
+    maintainer_email='fengkequan@cau.edu.cn',
+    description='YOLO-based perception for network facility inspection - 支持YOLOv26n模型',
     license='MIT',
     tests_require=['pytest'],
     entry_points={
